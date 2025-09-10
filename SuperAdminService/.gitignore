@@ -1,0 +1,34 @@
+# Node dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+logs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build output (if any in the future)
+dist/
+build/
+
+# npm / yarn caches
+.npm/
+.yarn/
+
+# Coverage reports (if using test tools like Jest)
+coverage/
+
+# Debug files
+*.pid
+*.pid.lock
